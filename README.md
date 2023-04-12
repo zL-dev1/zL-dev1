@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently learning HTML
-
+Hi im zL i have 20 years OLD im a developer on LUA, JavaScript and i try the code HTML ! 
+Im from Québec (Canada)  
+I started learning to develop 6 months ago and i love that
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zL#9999) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zl_ttv) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@.zl_999) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Ae_zL) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RLzL999) 
