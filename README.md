@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm from Québec<br><br>- 📚 I'm currently learning HTML<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from Québec<br><br>- 📚 I'm currently learning HTML<br>-
 
 ###
 
