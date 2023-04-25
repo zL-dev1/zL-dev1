@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi im zL i have 20 years OLD im a developer on LUA, JavaScript and i try the code HTML ! 
+Hi im klayZz i have 20 years OLD im a developer on LUA, JavaScript and i try the code HTML ! 
 Im from Québec (Canada)  
 I started learning to develop 6 months ago and i love that
 
